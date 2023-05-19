@@ -3,7 +3,7 @@
 - :mortar_board: Studing Software Development @ Seneca Polytechnic College
 - 🌱 I’m currently learning C++, Web Programming Tools and Frameworks
 - :necktie: I am hosting my Python projects @codido.co 
-- :earth_americas: based in Toronto,ON
+- :earth_americas: Based in Toronto,ON
 
 
 <!---
