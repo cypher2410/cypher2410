@@ -2,7 +2,8 @@
 - :clipboard: I have experience in C, Python, Javascript, HTML (more to follow) 
 - :mortar_board: Studing Software Development @ Seneca Polytechnic College
 - 🌱 I’m currently learning C++, Web Programming Tools and Frameworks
-- :necktie: I upload my Python projects @codido.co based in Toronto,ON
+- :necktie: I am hosting my Python projects @codido.co 
+- :earth_americas: based in Toronto,ON
 
 
 <!---
